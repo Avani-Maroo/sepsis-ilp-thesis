@@ -2,7 +2,7 @@
 
 This repository contains the code and data extraction pipeline for my Master's thesis, *"Towards Living Medical Guidelines: An Inductive Logic Programming Approach"* (MSc Artificial Intelligence, Vrije Universiteit Amsterdam).
 
-The thesis investigates whether Inductive Logic Programming (ILP), using the [Popper](https://github.com/logic-and-learning-lab/Popper) system, can learn interpretable rules from ICU data that characterise sepsis treatment decisions, and how those learned rules compare to the Surviving Sepsis Campaign (SSC) 2016 guidelines. Two binary decisions are studied:
+The thesis investigates whether Inductive Logic Programming (ILP), using the [Popper](https://github.com/logic-and-learning-lab/Popper) system, can learn interpretable rules from ICU data that characterise sepsis treatment decisions and how those learned rules compare to the Surviving Sepsis Campaign (SSC) 2016 guidelines. Two binary decisions are studied:
 
 - **Pipeline 1:** Which sepsis patients received norepinephrine (the guideline's recommended first-choice vasopressor)?
 - **Pipeline 2:** Among patients who received norepinephrine, which required dose escalation or a second vasopressor?
