@@ -1,0 +1,445 @@
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:12:
+Warning:    Clauses of low_sofa/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: low_comorbidity/1
+Warning:    Use :- discontiguous low_sofa/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:12:
+Warning:    Clauses of normal_lactate/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: low_sofa/1
+Warning:    Use :- discontiguous normal_lactate/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:12:
+Warning:    Clauses of young_patient/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: high_map_before/1
+Warning:    Use :- discontiguous young_patient/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:12:
+Warning:    Clauses of low_comorbidity/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: young_patient/1
+Warning:    Use :- discontiguous low_comorbidity/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:13:
+Warning:    Clauses of low_sofa/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: low_comorbidity/1
+Warning:    Use :- discontiguous low_sofa/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:13:
+Warning:    Clauses of normal_lactate/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: low_sofa/1
+Warning:    Use :- discontiguous normal_lactate/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:13:
+Warning:    Clauses of adequate_map_before/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: normal_lactate/1
+Warning:    Use :- discontiguous adequate_map_before/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:13:
+Warning:    Clauses of young_patient/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: adequate_map_before/1
+Warning:    Use :- discontiguous young_patient/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:13:
+Warning:    Clauses of low_comorbidity/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: young_patient/1
+Warning:    Use :- discontiguous low_comorbidity/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:14:
+Warning:    Clauses of low_sofa/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: low_comorbidity/1
+Warning:    Use :- discontiguous low_sofa/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:14:
+Warning:    Clauses of normal_lactate/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: low_sofa/1
+Warning:    Use :- discontiguous normal_lactate/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:14:
+Warning:    Clauses of high_map_before/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:12
+Warning:    Current predicate: normal_lactate/1
+Warning:    Use :- discontiguous high_map_before/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:14:
+Warning:    Clauses of young_patient/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: high_map_before/1
+Warning:    Use :- discontiguous young_patient/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:14:
+Warning:    Clauses of low_comorbidity/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: young_patient/1
+Warning:    Use :- discontiguous low_comorbidity/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:15:
+Warning:    Clauses of low_sofa/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: low_comorbidity/1
+Warning:    Use :- discontiguous low_sofa/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:15:
+Warning:    Clauses of normal_lactate/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: low_sofa/1
+Warning:    Use :- discontiguous normal_lactate/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:15:
+Warning:    Clauses of adequate_map_before/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: normal_lactate/1
+Warning:    Use :- discontiguous adequate_map_before/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:15:
+Warning:    Clauses of young_patient/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: adequate_map_before/1
+Warning:    Use :- discontiguous young_patient/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:15:
+Warning:    Clauses of low_comorbidity/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: young_patient/1
+Warning:    Use :- discontiguous low_comorbidity/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:16:
+Warning:    Clauses of low_sofa/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: low_comorbidity/1
+Warning:    Use :- discontiguous low_sofa/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:16:
+Warning:    Clauses of normal_lactate/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: low_sofa/1
+Warning:    Use :- discontiguous normal_lactate/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:16:
+Warning:    Clauses of high_map_before/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:12
+Warning:    Current predicate: normal_lactate/1
+Warning:    Use :- discontiguous high_map_before/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:16:
+Warning:    Clauses of young_patient/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: high_map_before/1
+Warning:    Use :- discontiguous young_patient/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:16:
+Warning:    Clauses of low_comorbidity/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: young_patient/1
+Warning:    Use :- discontiguous low_comorbidity/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:17:
+Warning:    Clauses of low_sofa/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: low_comorbidity/1
+Warning:    Use :- discontiguous low_sofa/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:17:
+Warning:    Clauses of normal_lactate/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: low_sofa/1
+Warning:    Use :- discontiguous normal_lactate/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:17:
+Warning:    Clauses of adequate_map_before/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: normal_lactate/1
+Warning:    Use :- discontiguous adequate_map_before/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:17:
+Warning:    Clauses of young_patient/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: adequate_map_before/1
+Warning:    Use :- discontiguous young_patient/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:17:
+Warning:    Clauses of low_comorbidity/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: young_patient/1
+Warning:    Use :- discontiguous low_comorbidity/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:18:
+Warning:    Clauses of low_sofa/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: low_comorbidity/1
+Warning:    Use :- discontiguous low_sofa/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:18:
+Warning:    Clauses of normal_lactate/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: low_sofa/1
+Warning:    Use :- discontiguous normal_lactate/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:18:
+Warning:    Clauses of high_map_before/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:12
+Warning:    Current predicate: normal_lactate/1
+Warning:    Use :- discontiguous high_map_before/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:18:
+Warning:    Clauses of young_patient/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: high_map_before/1
+Warning:    Use :- discontiguous young_patient/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:18:
+Warning:    Clauses of low_comorbidity/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: young_patient/1
+Warning:    Use :- discontiguous low_comorbidity/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:19:
+Warning:    Clauses of low_sofa/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: low_comorbidity/1
+Warning:    Use :- discontiguous low_sofa/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:19:
+Warning:    Clauses of normal_lactate/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: low_sofa/1
+Warning:    Use :- discontiguous normal_lactate/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:19:
+Warning:    Clauses of adequate_map_before/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: normal_lactate/1
+Warning:    Use :- discontiguous adequate_map_before/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:19:
+Warning:    Clauses of young_patient/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: adequate_map_before/1
+Warning:    Use :- discontiguous young_patient/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:19:
+Warning:    Clauses of low_comorbidity/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: young_patient/1
+Warning:    Use :- discontiguous low_comorbidity/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:20:
+Warning:    Clauses of low_sofa/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: low_comorbidity/1
+Warning:    Use :- discontiguous low_sofa/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:20:
+Warning:    Clauses of normal_lactate/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: low_sofa/1
+Warning:    Use :- discontiguous normal_lactate/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:20:
+Warning:    Clauses of high_map_before/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:12
+Warning:    Current predicate: normal_lactate/1
+Warning:    Use :- discontiguous high_map_before/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:20:
+Warning:    Clauses of young_patient/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: high_map_before/1
+Warning:    Use :- discontiguous young_patient/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:20:
+Warning:    Clauses of low_comorbidity/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:11
+Warning:    Current predicate: young_patient/1
+Warning:    Use :- discontiguous low_comorbidity/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:26:
+Warning:    Clauses of high_sofa/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: high_comorbidity/1
+Warning:    Use :- discontiguous high_sofa/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:26:
+Warning:    Clauses of severe_lactate/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: high_sofa/1
+Warning:    Use :- discontiguous severe_lactate/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:26:
+Warning:    Clauses of elderly_patient/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: low_map_before/1
+Warning:    Use :- discontiguous elderly_patient/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:26:
+Warning:    Clauses of high_comorbidity/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: elderly_patient/1
+Warning:    Use :- discontiguous high_comorbidity/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:27:
+Warning:    Clauses of high_sofa/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: high_comorbidity/1
+Warning:    Use :- discontiguous high_sofa/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:27:
+Warning:    Clauses of severe_lactate/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: high_sofa/1
+Warning:    Use :- discontiguous severe_lactate/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:27:
+Warning:    Clauses of very_low_map_before/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: severe_lactate/1
+Warning:    Use :- discontiguous very_low_map_before/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:27:
+Warning:    Clauses of elderly_patient/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: very_low_map_before/1
+Warning:    Use :- discontiguous elderly_patient/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:27:
+Warning:    Clauses of high_comorbidity/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: elderly_patient/1
+Warning:    Use :- discontiguous high_comorbidity/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:28:
+Warning:    Clauses of high_sofa/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: high_comorbidity/1
+Warning:    Use :- discontiguous high_sofa/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:28:
+Warning:    Clauses of severe_lactate/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: high_sofa/1
+Warning:    Use :- discontiguous severe_lactate/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:28:
+Warning:    Clauses of low_map_before/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:26
+Warning:    Current predicate: severe_lactate/1
+Warning:    Use :- discontiguous low_map_before/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:28:
+Warning:    Clauses of elderly_patient/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: low_map_before/1
+Warning:    Use :- discontiguous elderly_patient/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:28:
+Warning:    Clauses of high_comorbidity/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: elderly_patient/1
+Warning:    Use :- discontiguous high_comorbidity/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:29:
+Warning:    Clauses of high_sofa/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: high_comorbidity/1
+Warning:    Use :- discontiguous high_sofa/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:29:
+Warning:    Clauses of severe_lactate/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: high_sofa/1
+Warning:    Use :- discontiguous severe_lactate/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:29:
+Warning:    Clauses of very_low_map_before/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: severe_lactate/1
+Warning:    Use :- discontiguous very_low_map_before/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:29:
+Warning:    Clauses of elderly_patient/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: very_low_map_before/1
+Warning:    Use :- discontiguous elderly_patient/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:29:
+Warning:    Clauses of high_comorbidity/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: elderly_patient/1
+Warning:    Use :- discontiguous high_comorbidity/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:30:
+Warning:    Clauses of high_sofa/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: high_comorbidity/1
+Warning:    Use :- discontiguous high_sofa/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:30:
+Warning:    Clauses of severe_lactate/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: high_sofa/1
+Warning:    Use :- discontiguous severe_lactate/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:30:
+Warning:    Clauses of low_map_before/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:26
+Warning:    Current predicate: severe_lactate/1
+Warning:    Use :- discontiguous low_map_before/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:30:
+Warning:    Clauses of elderly_patient/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: low_map_before/1
+Warning:    Use :- discontiguous elderly_patient/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:30:
+Warning:    Clauses of high_comorbidity/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: elderly_patient/1
+Warning:    Use :- discontiguous high_comorbidity/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:31:
+Warning:    Clauses of high_sofa/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: high_comorbidity/1
+Warning:    Use :- discontiguous high_sofa/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:31:
+Warning:    Clauses of severe_lactate/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: high_sofa/1
+Warning:    Use :- discontiguous severe_lactate/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:31:
+Warning:    Clauses of very_low_map_before/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: severe_lactate/1
+Warning:    Use :- discontiguous very_low_map_before/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:31:
+Warning:    Clauses of elderly_patient/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: very_low_map_before/1
+Warning:    Use :- discontiguous elderly_patient/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:31:
+Warning:    Clauses of high_comorbidity/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: elderly_patient/1
+Warning:    Use :- discontiguous high_comorbidity/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:32:
+Warning:    Clauses of high_sofa/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: high_comorbidity/1
+Warning:    Use :- discontiguous high_sofa/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:32:
+Warning:    Clauses of severe_lactate/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: high_sofa/1
+Warning:    Use :- discontiguous severe_lactate/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:32:
+Warning:    Clauses of low_map_before/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:26
+Warning:    Current predicate: severe_lactate/1
+Warning:    Use :- discontiguous low_map_before/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:32:
+Warning:    Clauses of elderly_patient/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: low_map_before/1
+Warning:    Use :- discontiguous elderly_patient/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:32:
+Warning:    Clauses of high_comorbidity/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: elderly_patient/1
+Warning:    Use :- discontiguous high_comorbidity/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:33:
+Warning:    Clauses of high_sofa/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: high_comorbidity/1
+Warning:    Use :- discontiguous high_sofa/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:33:
+Warning:    Clauses of severe_lactate/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: high_sofa/1
+Warning:    Use :- discontiguous severe_lactate/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:33:
+Warning:    Clauses of very_low_map_before/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: severe_lactate/1
+Warning:    Use :- discontiguous very_low_map_before/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:33:
+Warning:    Clauses of elderly_patient/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: very_low_map_before/1
+Warning:    Use :- discontiguous elderly_patient/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:33:
+Warning:    Clauses of high_comorbidity/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: elderly_patient/1
+Warning:    Use :- discontiguous high_comorbidity/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:34:
+Warning:    Clauses of high_sofa/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: high_comorbidity/1
+Warning:    Use :- discontiguous high_sofa/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:34:
+Warning:    Clauses of severe_lactate/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: high_sofa/1
+Warning:    Use :- discontiguous severe_lactate/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:34:
+Warning:    Clauses of low_map_before/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:26
+Warning:    Current predicate: severe_lactate/1
+Warning:    Use :- discontiguous low_map_before/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:34:
+Warning:    Clauses of elderly_patient/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: low_map_before/1
+Warning:    Use :- discontiguous elderly_patient/1. to suppress this message
+Warning: /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:34:
+Warning:    Clauses of high_comorbidity/1 are not together in the source-file
+Warning:    Earlier definition at /Users/avani/Desktop/Masters Thesis/Sepsis_Work/Experiments/Pipeline_2/control/bk.pl:25
+Warning:    Current predicate: elderly_patient/1
+Warning:    Use :- discontiguous high_comorbidity/1. to suppress this message
+0.7 s INFO: Generating programs of size: 2
+********** SOLUTION **********
+Precision:1.00 Recall:1.00 TP:10 FN:0 TN:10 FP:0 Size:2
+treatment_held(V0):- normal_lactate(V0).
+******************************
